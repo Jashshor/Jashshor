@@ -6,6 +6,7 @@
 - 🎛️ What I can use:(Hardware Mainly)
   - Verilog
   - ASM  
+  - Matlab
   - little about C/Cpp/HTML/Python/Java/JS
 - 📺 Fond of Animations Moving and inspirational
 - 🏸 Interested in badminton but not good at it
