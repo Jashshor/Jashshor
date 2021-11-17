@@ -7,8 +7,7 @@
   - Verilog
   - ASM  
   - Matlab
-  And little about
-  - C/Cpp/HTML/Python/Java/JS
+  - And little about C/Cpp/HTML/Python/Java/JS
 - 📺 Fond of Animations Moving and inspirational
 - 🏸 Interested in badminton but not good at it
 
