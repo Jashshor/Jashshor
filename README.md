@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jashshor&count_private=true&show_icons=true" alt="logo" height="230" align="right" width="50%" />
 
-- 📖 *BSC* in *Communication Engineering Specialtyr*, *Xidian University*
+- 📖 *BSC* in *Communication Engineering Specialty*, *Xidian University*
 - 🎛️ What I can use:(Hardware Mainly)
   - Verilog
   - ASM  
