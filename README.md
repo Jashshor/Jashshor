@@ -1,16 +1,13 @@
-### Hi there 👋
+## This is [Jashshor]([jashshor.fun](https://jashshor.fun/)) 🙋🏻‍♂️
 
-<!--
-**Jashshor/Jashshor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Senior at Xidian University, *BSC* in *Communication Engineering Specialtyr*
+- 🎛️ Verilog/ASM (Hardware Mainly) little about C/Cpp/HTML/Python/Java/JS
+- 📺 Fond of Animations Moving and inspirational
+- 🏸 Interested in badminton but not good at it
+
+[![Robotxm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jashshor&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+##### Recently:
+
