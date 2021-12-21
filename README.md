@@ -24,16 +24,17 @@
 
 ##### 文章类
 
-- [ ] 劳动通识大作业（1000）[未知]()
+- [x] ~~劳动通识大作业（1000）[未知]()~~
 - [x] ~~形势与政策（2*1000）~~
 - [x] ~~工程概论 ctrl+c，改~~
 
 #### 考试类
 
-- [ ] 六级考试 12.18
-- [ ] 劳动通识线上考试 [未知](http://mooc1.chaoxing.com/exam/test?classId=46922265&courseId=218346218&ut=s&enc=822d5e88d685abaffaf1d234d5f656c7&cpi=93170852&openc=c0bd6e872aefa8061b0f5ed8cde263d6)
+- [x] ~~六级考试 12.18~~
+- [x] ~~劳动通识线上考试~~ [目测取消了](http://mooc1.chaoxing.com/exam/test?classId=46922265&courseId=218346218&ut=s&enc=822d5e88d685abaffaf1d234d5f656c7&cpi=93170852&openc=c0bd6e872aefa8061b0f5ed8cde263d6)
 - [x] ~~通原线上实验考试 **12.15**~~
 - [ ] 电子线路实验考试 **未知**
+- [ ] 期末考试
 
 #### 大作业
 
